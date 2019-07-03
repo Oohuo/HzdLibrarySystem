@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/QQfile_recv/图书馆管理系统（第五组——邹涵，吴星瑾，柳林，李宛柔，黄丽欣)/实训项目_图书馆系统/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
